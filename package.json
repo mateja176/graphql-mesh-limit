@@ -1,7 +1,7 @@
 {
   "name": "graphql-mesh-limit",
   "version": "1.0.0",
-  "description": "",
+  "description": "GraphQL wrapper around Open API compliant typescript express application powered by tsoa.",
   "main": "index.js",
   "scripts": {
     "build": "tsoa spec-and-routes && tsc",
