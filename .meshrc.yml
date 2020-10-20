@@ -1,0 +1,6 @@
+sources:
+  - name: Default
+    handler:
+      openapi:
+        source: http://localhost:3000/swagger.json
+        baseUrl: http://localhost:3000/
